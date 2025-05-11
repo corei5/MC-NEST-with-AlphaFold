@@ -1,3 +1,5 @@
-streamlit
-requests
 py3Dmol
+Bio
+streamlit 
+requests
+openai
